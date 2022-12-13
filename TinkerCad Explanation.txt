@@ -1,0 +1,9 @@
+The attached TinkerCAD diagram that I have included in this repo is the basis of which I built my duck controller. 
+
+As can be seen, the diagram includes the use of 2 buttons, a buzzer, as well as a TinkerCAD washer/potentiometer,
+which will simulate the use of a joystick in this instance. It is important to note that an additional button is included,
+however, this diagram is STRICTLY for the demo process, and is not included in the final build.
+
+The diagram is pretty basis and works as needed. The two buttons operate as a jump and a attack the hunter. The washer operates a joystick,
+allowing movement and the buzzer will light up and make a duck hurt sound, pressing the button in this demo will do that as well,
+as that is the idea going forward. 
